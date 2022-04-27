@@ -9,13 +9,13 @@
 - ⚡ Fun fact: I love play COD mobile 🤦‍♂️
 
 ### Connect with me:
-[![website](./img/medium_logo_icon.png)](https://shalingamanasinghe.medium.com/)
+[<img align="left" alt="Medium" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" style="padding-right:10px;" />](https://shalingamanasinghe.medium.com/)
 &nbsp;&nbsp;
-[![website](./img/twitter_logo_icon.png)](https://twitter.com/shalingams)
+[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/shalingams)
 &nbsp;&nbsp;
-[![website](./img/linkedin_logo_icon.png)](https://linkedin.com/in/shalingams)
+[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://linkedin.com/in/shalingams)
 &nbsp;&nbsp;
-[![website](./img/instagram_logo_icon.png)](https://instagram.com/shalingams)
+[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" style="padding-right:10px;" />](https://instagram.com/shalingams)
 &nbsp;&nbsp;
 [<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />](https://facebook.com/shalingams)
 
