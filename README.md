@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love play COD mobile 🤦‍♂️
 
 ### Connect with me:
-[<img align="left" alt="Medium" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" style="padding-right:10px;" />](https://shalingamanasinghe.medium.com/)
+[<img align="left" alt="Medium" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" style="padding-right:10px;" />](https://shalingamanasinghe.medium.com/)
 &nbsp;&nbsp;
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/shalingams)
 &nbsp;&nbsp;
