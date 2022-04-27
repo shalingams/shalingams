@@ -15,7 +15,7 @@
 &nbsp;&nbsp;
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://linkedin.com/in/shalingams)
 &nbsp;&nbsp;
-[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" style="padding-right:10px;" />](https://instagram.com/shalingams)
+[<img align="left" alt="Instagram" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" style="padding-right:10px;" />](https://instagram.com/shalingams)
 &nbsp;&nbsp;
 [<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />](https://facebook.com/shalingams)
 
