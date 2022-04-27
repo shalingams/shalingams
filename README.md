@@ -17,7 +17,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram_logo_icon.png)](https://instagram.com/shalingams)
 &nbsp;&nbsp;
-[![website](./img/facebook_logo_icon.png)](https://facebook.com/shalingams)
+[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg)](https://facebook.com/shalingams)
 
 ### Languages and Tools:
 
