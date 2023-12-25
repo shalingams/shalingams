@@ -1,4 +1,4 @@
-# Hi there, I'm Shalinga 👋 
+![image](https://github.com/shalingams/shalingams/assets/3423828/78c2e5a4-8cd5-466e-94a5-26d22d5ca105)# Hi there, I'm Shalinga 👋 
 
 ## I'm a Husband, Father, Developer !!
 
@@ -7,6 +7,7 @@
 - 🥅 2024 Goals: Learn ML and AI
 - 📫 How to reach me: shalingams@gmail.com
 - ⚡ Fun fact: I moved to Finland end of 2023
+- 🔢 Current Project: [Sudoku Master](https://sudoku-master.com/)
 
 ### Connect with me:
 [<img align="left" alt="Medium" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" style="padding-right:10px;" />](https://shalingamanasinghe.medium.com/)
