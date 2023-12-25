@@ -1,4 +1,4 @@
-![image](https://github.com/shalingams/shalingams/assets/3423828/78c2e5a4-8cd5-466e-94a5-26d22d5ca105)# Hi there, I'm Shalinga 👋 
+# Hi there, I'm Shalinga 👋 
 
 ## I'm a Husband, Father, Developer !!
 
