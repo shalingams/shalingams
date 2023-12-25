@@ -3,10 +3,10 @@
 ## I'm a Husband, Father, Developer !!
 
 - 📖 I’m currently learning everything 🤣
-- 🐶 I have a shih tzu name Liza
-- 🥅 2022 Goals: Learn more about web3
+- 🐶 I have a shih tzu named Liza
+- 🥅 2024 Goals: Learn ML and AI
 - 📫 How to reach me: shalingams@gmail.com
-- ⚡ Fun fact: I love play COD mobile 🤦‍♂️
+- ⚡ Fun fact: I moved to Finland end of 2023
 
 ### Connect with me:
 [<img align="left" alt="Medium" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" style="padding-right:10px;" />](https://shalingamanasinghe.medium.com/)
