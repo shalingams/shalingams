@@ -6,8 +6,10 @@
 - 🐶 I have a shih tzu named Liza
 - 🥅 2024 Goals: Learn ML and AI
 - 📫 How to reach me: shalingams@gmail.com
-- ⚡ Fun fact: I moved to Finland end of 2023
 - 🔢 Current Project: [Sudoku Master](https://sudoku-master.com/)
+
+<!-- ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=shalingams&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
+
 
 ### Connect with me:
 [<img align="left" alt="Medium" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" style="padding-right:10px;" />](https://shalingamanasinghe.medium.com/)
@@ -22,8 +24,10 @@
 
 
 ### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,react,remix,php,laravel,wordpress,py,fastapi,aws,html,css,tailwind,bootstrap,docker,nodejs,git,github,linux,ubuntu,mysql,mongodb,postgres,postman,ts	)](https://skillicons.dev)
 
-<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
+
+<!-- <img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="https://laravel.com/img/logomark.min.svg" style="padding-right:10px;" />
 <img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
@@ -38,7 +42,7 @@
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Atom" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" /> -->
 
 <br />
 <br />
