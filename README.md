@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I’m currently learning everything 🤣<br>🐶 I have a shih tzu named Liza<br>🥅 2024 - 2025 Goals: Learn AI<br>📫 How to reach me: shalingams@gmail.com<br>🔢 Currently looking for new opportunity <br>
+📖 I’m currently learning everything 🤣<br>🐶 I have a shih tzu named Liza<br>🥅 2024 - 2025 Goals: Learn AI<br>📫 How to reach me: shalingams@gmail.com<br>
 
 
 ## 🌐 Socials:
